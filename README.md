@@ -28,4 +28,3 @@ The file also needs a function that returns an initialized instance of the class
 - support downloading the torrents
 - support querying older versions
 - cache the responses of download pages when getting urls for multiple subversions
-- improve output formatting
